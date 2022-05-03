@@ -53,7 +53,7 @@ endmodule
 FULL SUBTRACTOR
 
 
-module FullSubtractor(A,B,C,Diff,Borrow);
+module fullsub(A,B,C,Diff,Borrow);
 input A,B,C;
 output Diff,Borrow;
 wire p;
