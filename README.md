@@ -65,12 +65,25 @@ endmodule
 ```
 
 ## Output:
+## HALF SUBTRACTOR
 
 ## Truthtable
 
 
 
 ##  RTL realization
+![](halfsub.png)
+
+## Timing diagram 
+
+## FULL SUBTRACTOR
+
+## Truthtable
+
+
+
+##  RTL realization
+![](fullsub.png)
 
 
 ## Timing diagram 
